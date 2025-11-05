@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Borpur",
+		"leaderName": "president of Borpur",
+		"adjective": ["Borpur"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Pardon me for poor choice of words, we come in peace.",
+		"startIntroPart2": "Chia to nuta dae amigo dei camita! I am Naomi the Pious, princess of Gamou house, very pleased to collaborate with you!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We come to civilize you, please do not resist!",
+		"attacked": "There is no surprise, this day would have came earlier.",
+		"defeated": "Nobody is innocent, this is fair to us, GG.",
+		"introduction": "Pardon me for poor choice of words, we come in peace.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Haie I am listening...","Etto?","Wanna cup o tea mr ambassador?"],
+		"neutralNo": "Sorry, I dont.",
+		"neutralYes": ["Iaraa, very good.","Of course, yes."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Leave us alone in peace",
+		"hateLetsHearIt": "Speak! Go on...",
+		"hateNo": ["That is not possible!","We are not agreeing to that!"],
+		"hateYes": "Hhh, farewell",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Bon voyage me old cream cracker!",
+		"tradeRequest": "Trade?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [232, 195, 5],
+		"innerColor": [71, 40, 144],
+		"uniques": ["[+2 Food] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","Militaristic City-States grant units [5] times as fast when you are at war with a common nation","[Gold] cost of purchasing [Melee] units [-50]%","[-50]],
+		"cities": ["Borpur"],
 	}
 ]
