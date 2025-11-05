@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Line Galleass",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Borpur",
+		"replaces": "Frigate",
+		"movement": 3,
+		"strength": 16,
+		"rangedStrength": 17,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 100,
+		"requiredTech": "Navigation",
+		"promotions": ["Sentry","Supply"],
 		"attackSound": "phasers"
 	}
 ]
