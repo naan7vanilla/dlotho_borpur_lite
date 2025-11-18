@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Line Galleass",
+		"name": "Brigate",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Borpur",
 		"replaces": "Frigate",
-		"movement": 3,
+		"movement": 4,
 		"strength": 16,
 		"rangedStrength": 17,
 		"range": 2,
