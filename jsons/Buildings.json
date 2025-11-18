@@ -2,8 +2,7 @@
 	{
 		"name": "Holodeck",
 		"uniqueTo": "Borpur",
-		"cost": 480,
-		"happiness": 12,
+		"cost": 1,
 		"maintenance": 0,
 		"uniques": ["[2] free [Crossbowman] units appear","[5] free [Pikeman] units appear","[2] free [Musketman] units appear","Free [Longswordsman] appears","[2] free [Horseman] units appear","Free [Knight] appears", "Free [Great Merchant] appears"],
 		"requiredTech": "Currency"
