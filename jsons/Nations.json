@@ -29,7 +29,7 @@
 
 		"outerColor": [232, 195, 5],
 		"innerColor": [71, 40, 144],
-		"uniques": ["[+1 Gold] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Militaristic City-States grant units [5] times as fast when you are at war with a common nation","[Gold] cost of purchasing [Melee] units [-50]%"],
+		"uniques": ["[+1 Gold] from every specialist [in all cities]","[+2 Food] from every specialist [in all cities]","May not annex cities","May buy items in puppet cities","Militaristic City-States grant units [10] times as fast when you are at war with a common nation","[Gold] cost of purchasing [Melee] units [-50]%","Cannot build [Settler] units"],
 		"cities": ["Borpur"],
 	}
 ]
